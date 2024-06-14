@@ -1,0 +1,65 @@
+[
+    {
+        "Birthday": "25.05.2000",
+        "Company": "2",
+        "Full name": "ФИО1",
+        "ID_user": 1,
+        "Login": "89999999",
+        "Password": "123",
+        "Type": "Владелец"
+    },
+    {
+        "Birthday": "10.02.2000",
+        "Company": "1",
+        "Full name": "ФИО2",
+        "ID_user": 2,
+        "Login": "85555555555",
+        "Password": "1234",
+        "Type": "Владелец"
+    },
+    {
+        "Birthday": "10.07.2002",
+        "Company": "2",
+        "Full name": "ФИО3",
+        "ID_user": 3,
+        "Login": "8754545654",
+        "Password": "01",
+        "Type": "Владелец"
+    },
+    {
+        "Birthday": "10.07.2002",
+        "Company": "2",
+        "Full name": "ФИО4",
+        "ID_user": 4,
+        "Login": "821231231",
+        "Password": "1",
+        "Type": "Водитель"
+    },
+    {
+        "Birthday": "10.07.2002",
+        "Company": "1",
+        "Full name": "ФИО5",
+        "ID_user": 5,
+        "Login": "80000000",
+        "Password": "3",
+        "Type": "Водитель"
+    },
+    {
+        "Birthday": "10.07.2002",
+        "Company": "2",
+        "Full name": "ФИО6",
+        "ID_user": 6,
+        "Login": "8454564564",
+        "Password": "45",
+        "Type": "Водитель"
+    },
+    {
+        "Birthday": "10.07.2002",
+        "Company": "1",
+        "Full name": "ФИО7",
+        "ID_user": 7,
+        "Login": "8788787",
+        "Password": "5",
+        "Type": "Водитель"
+    }
+]
